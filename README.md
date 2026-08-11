@@ -1,14 +1,14 @@
 # QA Testing Portfolio
 
-Welcome to my Quality Assurance portfolio! This repository demonstrates my foundational skills in software testing, bridging the gap between software development and quality assurance. 
+Welcome to my Quality Assurance portfolio! This repository demonstrates my foundational skills in software testing, bridging the gap between software development and quality assurance.
 
 I am actively building out this space with practical examples of both manual testing documentation and automated testing scripts.
 
 ## Repository Structure
 
-* **`/automated_tests`** 
+* **`/automated_tests`**
   Contains Python scripts validating application logic. Currently features `pytest` examples for backend file validation, with Playwright UI automation scripts coming soon.
-* **`/manual_testing`** 
+* **`/manual_testing`**
   Contains documentation for manual testing efforts, including structured bug reports, test plans, and edge-case mapping based on Agile workflows.
 
 ## Tools & Technologies
